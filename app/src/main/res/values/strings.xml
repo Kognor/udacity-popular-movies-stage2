@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PopularMoviesStage2</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="title_activity_movie_detail">Movie Details</string>
+
+    <string name="pref_sort_key" translatable="false">sort</string>
+
+    <string name="pref_sort_title">Sort by</string>
+
+    <string name="pref_sort_popular_label">Popular</string>
+
+    <string name="pref_sort_top_rated_label">Top Rated</string>
+
+    <string name="pref_sort_favorites_label">Favorites</string>
+
+    <string name="pref_sort_popular" translatable="false">popular</string>
+
+    <string name="pref_sort_top_rated" translatable="false">top_rated</string>
+
+    <string name="pref_sort_favorites" translatable="false">favorites</string>
+
+    <string name="favorite">Favorite</string>
+
+    <string name="duration">%1$dmin</string>
+
+    <!-- SyncAdapter strings -->
+    <string name="sync_account_type" translatable="false">popularmoviesstage2.klogan.com</string>
+    <string name="content_authority" translatable="false">com.klogan.popularmoviesstage2</string>
+
+
+</resources>
